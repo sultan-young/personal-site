@@ -42,15 +42,15 @@ head:
     rss: 
 navbar:
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        主页: /
+        文章: /archives
+        分类: /categories
+        标签: /tags
+        关于我: /about
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/sultan-young
 footer:
     links:
         Creative Commons:
@@ -117,9 +117,9 @@ widgets:
     -
         position: left
         type: profile
-        author: Your name
-        author_title: Your title
-        location: Your location
+        author: sultan
+        author_title: 前端开发者
+        location: 浙江 杭州
         avatar: 
         avatar_rounded: false
         gravatar: 
