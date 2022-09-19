@@ -5,7 +5,7 @@ keywords: sultan blog
 author: sultan
 language: zh-CN
 timezone: ''
-url: http://example.com
+url: https://majestic-paprenjak-819548.netlify.app/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
