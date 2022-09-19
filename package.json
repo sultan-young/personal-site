@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "node ./build",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server"
@@ -28,6 +28,7 @@
   "devDependencies": {
     "@babel/core": "^7.19.1",
     "@babel/preset-env": "^7.19.1",
-    "babel-plugin-inferno": "^6.5.0"
+    "babel-plugin-inferno": "^6.5.0",
+    "shelljs": "^0.8.5"
   }
 }
