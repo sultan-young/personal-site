@@ -1,5 +1,7 @@
 ---
 title: 【译】angular中的ng-template, ng-content, ng-container
+categories: [前端, Angular]
+tags: [Angular]
 ---
 ![image-20220915142702595](https://cdn.jsdelivr.net/gh/sultan-young/picture-bed/assets/image-20220915142702595.png)
 
@@ -20,7 +22,7 @@ title: 【译】angular中的ng-template, ng-content, ng-container
 
 你曾经也遇到过这种情况吗？如果是，那么你来对地方了。闲话少说，让我们一个一个来讲解他们。
 
-## 1. < ng-template >
+## < ng-template >
 
 顾名思义，`<ng-template>` 是一个模板元素，用于Angular与结构指令结合使用(`*ngIf`, `*ngFor`, `[ngSwitch]`和自定义指令)
 
@@ -108,7 +110,7 @@ title: 【译】angular中的ng-template, ng-content, ng-container
 
 
 
-## 3、< ng-content >
+## < ng-content >
 
 它用于创建可配置的组件。这意味着组件可以根据用户的意愿来配置。这就是众所周知的内容投影~
 
@@ -146,7 +148,7 @@ title: 【译】angular中的ng-template, ng-content, ng-container
 
 
 
-## 4、*ngTemplateOutlet
+## *ngTemplateOutlet
 
 `*ngTemplateOutlet` 一般被用在两个场景：
 

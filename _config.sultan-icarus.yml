@@ -46,8 +46,8 @@ navbar:
     menu:
         主页: /
         文章: /archives
-        分类: /categories
-        标签: /tags
+        # 留言: /message
+        思绪: /thought
         关于我: /about
     links:
         Download on GitHub:
@@ -114,10 +114,10 @@ sidebar:
     left:
         sticky: false
     right:
-        sticky: false
+        sticky: true
 widgets:
     -
-        position: left
+        position: right
         type: profile
         author: sultan
         author_title: 前端开发者
@@ -130,27 +130,19 @@ widgets:
             Github:
                 icon: fab fa-github
                 url: https://github.com/sultan-young
-            简书:
-                icon: fa-solid fa-j
-                url: https://juejin.cn/user/2709653869308030/posts
+            掘金: https://juejin.cn/user/2709653869308030/posts
+            知乎: https://www.zhihu.com/people/yang1050462990
+            CSDN: https://blog.csdn.net/qq_36205941
     -
-        position: left
+        position: right
         type: toc
         index: true
-        collapsed: true
-        depth: 3
-    # -
-    #     position: left
-    #     type: links
-    #     links:
-    #         Hexo: https://hexo.io
-    #         Bulma: https://bulma.io
-    -
-        position: left
-        type: categories
     -
         position: left
         type: recent_posts
+    -
+        position: left
+        type: categories
     -
         position: left
         type: archives
@@ -160,6 +152,13 @@ widgets:
         order_by: name
         amount: 
         show_count: true
+    -
+        position: left
+        type: links
+        # 友站名称与链接
+        links:
+            Hexo: 'https://hexo.io'
+            Bulma: 'https://bulma.io'
     # -
     #     position: left
     #     type: subscribe_email
