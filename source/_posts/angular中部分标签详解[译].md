@@ -3,11 +3,13 @@ title: 【译】angular中的ng-template, ng-content, ng-container
 ---
 ![image-20220915142702595](https://cdn.jsdelivr.net/gh/sultan-young/picture-bed/assets/image-20220915142702595.png)
 
+
 > 本文会包含作者一些理解，为了不和原作者意思混淆，会将个人的理解放在【】里。
 
 [原文地址](https://www.freecodecamp.org/news/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691/)
 
 那是我忙于为我的办公项目创作新功能的日子之一。突然间，某些事情引起了我的注意。
+<!--more-->
 
 ![image.png](https://cdn.jsdelivr.net/gh/sultan-young/picture-bed/assets/f2b2dded8281436984afa86e09ef43d9~tplv-k3u1fbpfcp-watermark.png)
 上图是angular最终渲染出来的DOM

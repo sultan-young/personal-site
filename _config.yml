@@ -64,7 +64,7 @@ deploy:
   type: ''
 
 live2d:
-  enable: true
+  enable: false
   scriptFrom: local
   pluginRootPath: live2dw/
   pluginJsPath: lib/
@@ -79,3 +79,8 @@ live2d:
     height: 300
   mobile:
     show: true
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
+  instanceName: "uniqueString"

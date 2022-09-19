@@ -1,18 +1,19 @@
 ---
-title: Hello World
+title: TS 装饰器详解
 ---
 
-![请添加图片描述](https://img-blog.csdnimg.cn/186b2a3b426b4a7183370feed3c38cb6.png)
+![](https://img-blog.csdnimg.cn/186b2a3b426b4a7183370feed3c38cb6.png)
 ## 通过本文你可以知道什么
 
 ---
-
 - 装饰器的发展历程
 - JS和TS装饰器有何不同
 - Angular中的装饰器到底是什么
 - 装饰器的定义，语法，作用
 - reflect-meta是什么及如何使用
 <a name="yJwsT"></a>
+<!--more-->
+
 ## 前言
 
 ---
