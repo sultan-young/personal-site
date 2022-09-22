@@ -2,6 +2,7 @@
 title: 如何在浏览器全屏模式下展示浮层
 categories: [前端]
 tags: [前端, 浏览器]
+date: 2022-09-22 16:34:02
 ---
 相关问题链接:
 https://github.com/angular-ui/bootstrap/issues/3686
@@ -9,6 +10,7 @@ https://stackoverflow.com/questions/41435747/bootstrap-modal-not-show-fullscreen
 
 ## 背景
 > 最近在做一个需求：在一个以表格构成的主题页面，对表格可以单独做全屏操作。这样可以对小屏用户更加友好。
+<!--more-->
 
 ![页面效果](https://cdn.jsdelivr.net/gh/sultan-young/picture-bed/assets/20220922160408.png)
 ![点击全屏后的效果](https://cdn.jsdelivr.net/gh/sultan-young/picture-bed/assets/20220922160634.png)
