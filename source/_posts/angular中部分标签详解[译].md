@@ -2,6 +2,7 @@
 title: 【译】angular中的ng-template, ng-content, ng-container
 categories: [前端, Angular]
 tags: [Angular]
+date: 2022-09-15
 ---
 ![image-20220915142702595](https://cdn.jsdelivr.net/gh/sultan-young/picture-bed/assets/image-20220915142702595.png)
 

@@ -3,6 +3,7 @@ title: TS 装饰器详解
 categories: [前端, TS, 装饰器]
 tags: [TS]
 thumbnail: https://img-blog.csdnimg.cn/186b2a3b426b4a7183370feed3c38cb6.png
+date: 2022-05-09
 ---
 
 ![](https://img-blog.csdnimg.cn/186b2a3b426b4a7183370feed3c38cb6.png)
