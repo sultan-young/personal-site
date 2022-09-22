@@ -120,23 +120,23 @@ sidebar:
     right:
         sticky: true
 widgets:
-    -
-        position: right
-        type: profile
-        author: sultan
-        author_title: 前端开发者
-        location: 浙江 杭州
-        avatar: 
-        avatar_rounded: false
-        gravatar: 
-        follow_link: https://github.com/sultan-young
-        social_links:
-            Github:
-                icon: fab fa-github
-                url: https://github.com/sultan-young
-            掘金: https://juejin.cn/user/2709653869308030/posts
-            知乎: https://www.zhihu.com/people/yang1050462990
-            CSDN: https://blog.csdn.net/qq_36205941
+    # -
+    #     position: right
+    #     type: profile
+    #     author: sultan
+    #     author_title: 前端开发者
+    #     location: 浙江 杭州
+    #     avatar: 
+    #     avatar_rounded: false
+    #     gravatar: 
+    #     follow_link: https://github.com/sultan-young
+    #     social_links:
+    #         Github:
+    #             icon: fab fa-github
+    #             url: https://github.com/sultan-young
+    #         掘金: https://juejin.cn/user/2709653869308030/posts
+    #         知乎: https://www.zhihu.com/people/yang1050462990
+    #         CSDN: https://blog.csdn.net/qq_36205941
     -
         position: right
         type: toc
